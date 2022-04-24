@@ -35,7 +35,7 @@ yarn cypress open
 
 1. cypress.json
 
- It is used to save different cypress related configurations for eg. base URL, timeouts, etc. The default behavior of Cypress can be modified by supplying any of the following configuration options.The cypress.json file enables us to change the default settings of Cypress.
+It is used to save different cypress related configurations for eg. base URL, timeouts, etc. The default behavior of Cypress can be modified by supplying any of the following configuration options.The cypress.json file enables us to change the default settings of Cypress.
 
 2. support
 
