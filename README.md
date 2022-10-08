@@ -43,10 +43,10 @@ It is used to store videos of test recordings.
 It is used to store images of specific test(s).
 
 ## support
-
+  ,
 i) index.js
 This index.js file is run before every single spec file.Use this file to add additional imports, additional libraries, event listeners,
-ability ti add hooks etc.
+ability tox add hooks etc.
 ii) command.js
 Use this file to create custom commands and overwrite existing commands.
 
@@ -68,4 +68,3 @@ Fixtures are used to store test data which can then be used throughout the tests
 [Cypress API's for reference](https://docs.cypress.io/api/table-of-contents)
 
 [Cypress Changelog](https://docs.cypress.io/guides/references/changelog)
-
