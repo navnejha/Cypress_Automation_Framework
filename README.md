@@ -7,7 +7,7 @@ The project is created to learn CYPRESS.
 ```bash
 npm init 
 Use to create package.json file to handle necessary packages required for the project
-npm install --save-dev cypress@9.2.1 
+npm install --save-dev cypress@10.9.0 
 Use to download cypress and necessary packages
 ```
 
