@@ -5,6 +5,6 @@ const { describe } = require("mocha");
 
 describe("Running First Program", () => {
     it("Opening Google", () => {
-        cy.visit("www.youtube.com")
+        cy.visit("https://www.youtube.com/")
     })
 })
